@@ -1,17 +1,18 @@
 ## About Me
-
-
+<br>
+<br>
+<br>
 
 ## :mortar_board: Education 
-
-#### Purdue University
+<b>Purdue University</b> MS Industrial Engineering
 - MS Industrial Engineering
 
-#### SUNY Empire State College
+<b>SUNY Empire State College</b>
 - BS Applied & Computational Math
 
-#### Suffolk County Community College
+<b>Suffolk County Community College</b>
 - AS Business Administration
+<br>
 
 
 ## 💼 Skills & Tools
