@@ -9,9 +9,6 @@
 
 <b>SUNY Empire State College</b>
 - BS Applied & Computational Math
-
-<b>Suffolk County Community College</b>
-- AS Business Administration
 <br>
 
 
