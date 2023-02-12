@@ -11,7 +11,6 @@ Experienced Data Analytics professional with a passion for leveraging data to dr
 - 3.7 GPA
 <br>
 
-
 ## 💼 Skills & Tools
 ### Programming & Data Science
 <a href="https://www.python.org" alt="python" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="65" height="65"/> </a> &nbsp;
@@ -38,7 +37,6 @@ Experienced Data Analytics professional with a passion for leveraging data to dr
 <a href="https://trello.com/home" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Trello_logo.svg/240px-Trello_logo.svg.png" alt="Trello" width="120" height="34"/> </a> 
 
 ## 📌 Pinned Repositories 
-
+Check out a few of my personal and professional projects below:
 <br>
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhalemsc&repo=NCAAT-Analysis)](https://github.com/rhalemsc/NCAAT-Analysis)
