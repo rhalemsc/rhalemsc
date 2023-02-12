@@ -4,11 +4,13 @@
 <br>
 
 ## :mortar_board: Education 
-<b>Purdue University</b> MS Industrial Engineering
-- MS Industrial Engineering
+<b>Purdue University</b>
+- Master of Science Industrial Engineering
+- 3.8 GPA
 
 <b>SUNY Empire State College</b>
-- BS Applied & Computational Math
+- Bachelor of Science Applied & Computational Math
+- 3.7 GPA
 <br>
 
 
