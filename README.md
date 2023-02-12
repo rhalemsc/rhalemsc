@@ -6,10 +6,6 @@ Experienced Data Analytics professional with a passion for leveraging data to dr
 ### <b>Purdue University</b>
 - Master of Science Industrial Engineering
 - 3.8 GPA
-
-### <b>SUNY Empire State College</b>
-- Bachelor of Science Applied & Computational Math
-- 3.7 GPA
 <br>
 
 ## 💼 Skills & Tools
