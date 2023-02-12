@@ -19,9 +19,17 @@
 <a href="https://www.python.org" alt="python" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="65" height="65"/> </a> 
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZNP8K1HFw-mHFkBoR5Xbx0BydDGu7ZzhwYRV4QjJvTrWrQcMKaFwrqa8UZ9J1vQ0mRk&usqp=CAU" alt="Pycharm" width="65" height="65"/> </a>
 <a href="https://www.anaconda.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Anaconda_Logo.png/120px-Anaconda_Logo.png" alt="Anaconda" width="120" height="60"/> </a>
+<a href="https://spark.apache.org/docs/latest/api/python/#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" alt="Spark" width="120" height="65"/> </a>
+<a href="https://azure.microsoft.com/en-us/products/databricks/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="Databricks" width="120" height="65"/> </a>
+
+
 
 #### Data Analysis and BI
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="65" height="65"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="65" height="65"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Power_BI_logo.svg/70px-Power_BI_logo.svg.png" alt="mysql" width="65" height="65"/> </a> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="65" height="65"/> </a>
+<a href="[https://www.mysql.com/](https://www.tableau.com/)" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo-700x394.png" alt="Tableau" width="120" height="65"/> </a> 
+<br>
+<a href="https://lookerstudio.google.com/" target="_blank"> <img src="https://www.acep.org/globalassets/sites/informatics/media/article-images/gds-800x495.jpg" alt="GoogleDataStudio" width="120" height="65"/> </a> 
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png?20190925171014" alt="Excel" width="65" height="65"/> </a> 
+<a href="https://www.teradata.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Teradata_logo_2018.png" alt="Teradata" width="120" height="65"/> </a> 
