@@ -23,8 +23,8 @@ Experienced Data Analytics professional with a passion for leveraging data to dr
 ### Data Analysis and BI
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="65" height="65"/> </a> &nbsp;
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="65" height="65"/> </a> &nbsp;
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Power_BI_logo.svg/70px-Power_BI_logo.svg.png" alt="mysql" width="65" height="65"/> </a> &nbsp;
-<a href="[https://www.mysql.com/](https://www.tableau.com/)" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo-700x394.png" alt="Tableau" width="120" height="65"/> </a> &nbsp;
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Power_BI_logo.svg/70px-Power_BI_logo.svg.png" alt="PowerBI" width="65" height="65"/> </a> &nbsp;
+<a href="https://www.tableau.com/" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo-700x394.png" alt="Tableau" width="120" height="65"/> </a> &nbsp;
 
 <br>
 
