@@ -21,14 +21,15 @@ Experienced Data Analytics professional with a passion for leveraging data to dr
 ### Data Analysis and BI
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="65" height="65"/> </a> &nbsp;
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="65" height="65"/> </a> &nbsp;
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Power_BI_logo.svg/70px-Power_BI_logo.svg.png" alt="PowerBI" width="65" height="65"/> </a> &nbsp;
-<a href="https://www.tableau.com/" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo-700x394.png" alt="Tableau" width="120" height="65"/> </a> &nbsp;
+<a href="https://www.teradata.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Teradata_logo_2018.png" alt="Teradata" width="120" height="45"/> </a>
+ &nbsp;
 
 <br>
 
 <a href="https://lookerstudio.google.com/" target="_blank"> <img src="https://www.acep.org/globalassets/sites/informatics/media/article-images/gds-800x495.jpg" alt="GoogleDataStudio" width="120" height="65"/> </a> &nbsp;
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png?20190925171014" alt="Excel" width="65" height="65"/> </a> &nbsp;
-<a href="https://www.teradata.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Teradata_logo_2018.png" alt="Teradata" width="120" height="45"/> </a> &nbsp;
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Power_BI_logo.svg/70px-Power_BI_logo.svg.png" alt="PowerBI" width="65" height="65"/> </a> &nbsp;
+<a href="https://www.tableau.com/" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo-700x394.png" alt="Tableau" width="120" height="65"/> </a>
 <br><br>
 ### Project Management and Efficiency
 <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Jira_%28Software%29_logo.svg/500px-Jira_%28Software%29_logo.svg.png" alt="Jira" width="250" height="34"/> </a> &nbsp;
