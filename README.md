@@ -37,7 +37,7 @@ Experienced Data Analytics professional with a passion for leveraging data to dr
 <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Jira_%28Software%29_logo.svg/500px-Jira_%28Software%29_logo.svg.png" alt="Jira" width="250" height="34"/> </a> &nbsp;
 <a href="https://trello.com/home" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Trello_logo.svg/240px-Trello_logo.svg.png" alt="Trello" width="120" height="34"/> </a> 
 
-### 📌 Pinned Repositories 
+## 📌 Pinned Repositories 
 
 <br>
 
