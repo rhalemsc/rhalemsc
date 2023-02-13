@@ -39,4 +39,4 @@ Experienced Data Analytics professional with a passion for leveraging data to dr
 ## 📌 Pinned Repositories 
 Check out a few of my personal and professional projects below:
 <br> <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhalemsc&repo=NCAAT-Analysis&show_icons=true&theme=monokai)](https://github.com/rhalemsc/NCAAT-Analysis/blob/main/Tournament-Stats.ipynb) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rhalemsc&repo=Product-Webscraping&show_icons=true&theme=monokai)](https://github.com/rhalemsc/Product-Webscraping)
+
