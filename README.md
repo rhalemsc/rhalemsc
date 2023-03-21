@@ -40,4 +40,4 @@ Experienced Data Analytics professional with a passion for leveraging data to dr
 Check out a few of my personal and professional projects below:
 <br> <br>
 [![NCAA Tournament Analysis](https://github-readme-stats.vercel.app/api/pin/?username=rhalemsc&repo=NCAAT-Analysis&hide_border=true&show_icons=true&theme=monokai)](https://github.com/rhalemsc/NCAAT-Analysis/blob/main/Tournament-Stats.ipynb)  [![NCAA Tournament Analysis](https://github-readme-stats.vercel.app/api/pin/?username=rhalemsc&repo=Product-Webscraping&hide_border=true&show_icons=true&theme=monokai)](https://github.com/rhalemsc/Product-Webscraping) 
-[![Sea Ice Analysis](https://github-readme-stats.vercel.app/api/pin/?username=rhalemsc&repo=Sea-Ice-Analysis&hide_border=true&show_icons=true&theme=monokai)](https://github.com/rhalemsc/Sea-Ice-Analysis/blob/main/Sea_Ice_Analysis.ipynb)
+[![Sea Ice Analysis](https://github-readme-stats.vercel.app/api/pin/?username=rhalemsc&repo=sea-ice&hide_border=true&show_icons=true&theme=monokai)](https://github.com/rhalemsc/sea-ice/blob/main/Sea_Ice_Analysis.ipynb)
